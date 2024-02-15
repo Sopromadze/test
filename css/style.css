@@ -1,0 +1,31 @@
+
+header{
+    background-color: blue;
+}
+
+ul{
+    text-align: center;
+}
+
+li{
+ display: inline-block;
+ padding-left: 30px;
+ 
+
+}
+
+.link1{
+    color: white;
+}
+.link2{
+    color: white;
+}
+.link3{
+    color: white;
+}
+
+footer {
+    background-color: red;
+    width: 500px;
+    margin: auto;
+}
